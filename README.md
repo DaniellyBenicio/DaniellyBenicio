@@ -16,5 +16,3 @@ Here are some ideas to get you started:
 -->
 
 
-
-![snake gif](https://github.com/DaniellyBenicio/DaniellyBenicio/blob/output/github-contribution-grid-snake.svg)
